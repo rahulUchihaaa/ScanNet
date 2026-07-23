@@ -34,8 +34,10 @@ http://localhost:8765
 
 To use a different port:
 
+### Step 1 — Tool Startup & loading in terminal
 ![ScanNet Terminal](terminal.png)
 
+### Step 2 — Live Dashboard
 ![ScanNet Dashboard](Dashboard.png)
 
 ```bash
