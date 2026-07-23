@@ -33,6 +33,10 @@ http://localhost:8765
 ```
 
 To use a different port:
+```
+
+```
+## 📸 Output
 
 ### Step 1 — Tool Startup & loading in terminal
 ![ScanNet Terminal](terminal.png)
