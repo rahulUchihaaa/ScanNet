@@ -34,6 +34,10 @@ http://localhost:8765
 
 To use a different port:
 
+![ScanNet Terminal](terminal.png)
+
+![ScanNet Dashboard](Dashboard.png)
+
 ```bash
 PORT=9000 python3 scanner.py
 ```
