@@ -33,9 +33,10 @@ http://localhost:8765
 ```
 
 To use a different port:
+```bash
+PORT=9000 python3 scanner.py
 ```
 
-```
 ## 📸 Output
 
 ### Step 1 — Tool Startup & loading in terminal
